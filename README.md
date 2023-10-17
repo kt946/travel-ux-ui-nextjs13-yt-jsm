@@ -1,4 +1,6 @@
-# Travel UX/UI Next.js 13
+# Travel UX/UI Next.js 13 Website
+
+![travel_ux_ui_nextjs13_screenshot](https://github.com/kt946/travel-ux-ui-nextjs13-yt-jsm/assets/103476893/a91c554a-7cbe-407e-9b8b-3bc55cc1ac1b, 'Travel UX/UI homepage')
 
 ## Description
 
